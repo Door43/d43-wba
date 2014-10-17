@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wba:home|Door43 (wba)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wba|d43-wba repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wba/archive/master.zip|d43-wba.zip]]
+
+**Recent Changes**
+{{changes>ns = wba}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wba|Ethnologue data]]
+
